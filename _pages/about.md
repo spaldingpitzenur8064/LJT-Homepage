@@ -4,7 +4,7 @@ title: "Junteng Liu"
 author_profile: true
 ---
 
-I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University in June 2024.
+I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology, supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University in June 2024. Professor Junxian He also previously advised me during my undergraduate studies at Shanghai Jiao Tong University.
 
 My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
 
